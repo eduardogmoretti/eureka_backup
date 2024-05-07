@@ -31,7 +31,7 @@ body {
 }
 
 .logo {
-    width: 200px; /* Largura desejada da imagem */
+    width: 200px; /* Largura desejada da imagem */ 
 }
 /* Media query para dispositivos móveis */
 @media screen and (max-width: 600px) {
